@@ -24,12 +24,52 @@ You can reach me at [li@mail.ncut.edu.cn](li@mail.ncut.edu.cn)
 
 <br>
 
-## Project Involvement
+## Cooperating institutions
 
-- National key research and development program (NO. 2020YFC0811004)
-- High level talent scientific research start-up fund (NO.107051360021XN090/001)
-- National Natural Science Foundation of China (62293554, 62206249, U2336212)
-- Natural Science Foundation of Zhejiang Province, China (LZ24F020002)
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experience</title>
+    <style>
+        .partners {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .logo {
+            width: 100px; /* Adjust size as needed */
+            height: auto;
+            margin-right: 50px;
+        }
+        .company-info {
+            flex-grow: 1;
+            line-height: 1;
+        }
+    </style>
+</head>
+<body>
+
+<div class="partners">
+    <img src="https://tianhao.li/files/cv/splxai.png" alt="TOPSEC" class="logo">
+    <div class="company-info">
+        <h3>SplxAI</h3>
+        <p>Research Scientist (Part Time)</p>
+        <i style="margin-top: -5px;">August 2024 - Present</i>
+    </div>
+</div>
+
+<div class="partners">
+    <img src="https://tianhao.li/files/cv/topsec.png" alt="TOPSEC" class="logo">
+    <div class="company-info">
+        <h3>TOPSEC</h3>
+        <p>Security Researcher @ Coordinate Lab</p>
+        <i style="margin-top: -5px;">March 2024 - August 2024</i>
+    </div>
+</div>
+
+</body>
+</html>
 
 <br>
 
@@ -43,5 +83,10 @@ You can reach me at [li@mail.ncut.edu.cn](li@mail.ncut.edu.cn)
 
 <br>
 
+## Project Involvement
 
+- National key research and development program (NO. 2020YFC0811004)
+- High level talent scientific research start-up fund (NO.107051360021XN090/001)
+- National Natural Science Foundation of China (62293554, 62206249, U2336212)
+- Natural Science Foundation of Zhejiang Province, China (LZ24F020002)
 
