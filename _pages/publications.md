@@ -11,6 +11,8 @@ My research is driven by my passion for generative AI. From GANs to Diffusion Mo
 - 3D Gaussian Splatting: I am investigating the capabilities and limitations of 3DGS, focusing on its applications in the areas of text-to-3D and image-to-3D, while addressing concerns related to personalization, texture bias, and fineness.
 - AI for Medicine & Healthcare: I am interested in leveraging AI to improve healthcare outcomes, from disease diagnosis and treatment planning to drug discovery and personalized medicine. My goal is to develop AI solutions that are safe, effective, and accessible to all.
 
+<br>
+
 # Publications
 
 <i>(\* indicate corresponding author)</i>
