@@ -67,7 +67,7 @@ i {
     <img src="images/DreamTexture.png" alt="DreamTexture" width="100%"> 
   </div>
   <div class="text-container">
-    <b>[DreamTexture: High-Fidelity Synthetic 3D Data Generation through Decoupled Geometry and Texture Synthesis](https://syntheticdata4cv.wordpress.com/partners)</b>
+    [DreamTexture: High-Fidelity Synthetic 3D Data Generation through Decoupled Geometry and Texture Synthesis](https://syntheticdata4cv.wordpress.com/partners)
     <p>Jing Li, Yawei Luo, Ying Li*, Xueying Li, Xiaoxue Li, Yuwen Hao, Lijun Wang, and Zhengping Li*</p>
     <i>The 18th European Conference on Computer Vision ECCV 2024 (Synthetic Data for Computer Vision)</i>
   </div>
