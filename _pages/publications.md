@@ -76,23 +76,23 @@ i {
 
 <div class="container">
   <div class="image-container">
-    <img src="https://tianhao.li/files/research/banner/ma2024sfswts.png" alt="ma2024sfswts" width="100%"> 
+    <img src="https://godzillali.github.io/images/SDS.png" alt="SDS" width="100%"> 
   </div>
   <div class="text-container">
-    <b>SFSWTS: EEG Emotion Recognition Based on Spatial-frequency Shifted Windows Time Self-attention Neural Network</b>
-    <p>Weizhi Ma, Ying Li*, Tianhao Li, Haowei Yang, Zhengping Li, Lijun Wang, Junyu Xuan</p>
-    <i>Pattern Recognition, 2024 (SCI, JCR-Q1, Undergoing Peer Review)</i>
+    <b>Guiding 3D Digital Content Generation with Pre-Trained Diffusion Models</b>
+    <p>Jing Li, Zhengping Li*, Peizhe Jiang, Lijun Wang, Xiaoxue Li*, Yuwen Hao</p>
+    <i>International Journal of Advanced Computer Science & Applications 15.1 (2024)</i>
   </div>
 </div>
 
 <div class="container">
   <div class="image-container">
-    <img src="https://tianhao.li/files/research/banner/ma2024comprehensive.png" alt="ma2024comprehensive" width="100%"> 
+    <img src="https://godzillali.github.io/images/Diffusion.png" alt="Diffusion" width="100%"> 
   </div>
   <div class="text-container">
-    <b>A comprehensive review of deep learning in EEG-based emotion recognition: classifications, trends, and practical implications</b>
-    <p>Weizhi Ma, Yujia Zheng, Tianhao Li, Zhengping Li, Ying Li, Lijun Wang*</p>
-    <i>PeerJ Computer Science, 2024 (SCI, JCR-Q1)</i>
+    <b>A Comprehensive Study of Content Generation Using Diffusion Model</b>
+    <p>Jing Li, Zhengping Li, Ying Li, Lijun Wang*</p>
+    <i>SID Symposium Digest of Technical Papers. Vol. 54. 2023</i>
   </div>
 </div>
 
