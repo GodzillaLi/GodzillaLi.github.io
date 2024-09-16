@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /research/
+    url: /publications/
 
   - title: "CV"
     url: https://tianhao.li/cv.pdf
