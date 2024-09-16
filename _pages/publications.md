@@ -30,11 +30,11 @@ body {
 }
 
 .image-container {
-  width: 40%;
+  width: 35%;
 }
 
 .text-container {
-  width: 60%;
+  width: 65%;
   padding: 20px;
 }
 
