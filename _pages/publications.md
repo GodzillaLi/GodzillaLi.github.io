@@ -109,5 +109,5 @@ i {
 # Collaborators
 
 - Lijun Wang, PhD, Professor/Director, Advance Vision Research Institute, Hangzhou Institute of Technology, Xidian University
-- Guangcan Yang, PhD, Professor, North China University of Technology
-- Junyu Xuan, PhD, Senior Lecturer, University of Technology Sydney
+- Yawei Luo, PhD, Researcher, Zhejiang University
+- Ying Li, PhD, Senior Lecturer, North China University of Technology
