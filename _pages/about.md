@@ -16,7 +16,7 @@ h2 {
 
 ## Biography
 
-I am currently pursuing a Master of Engineering (M.E.) degree in Information and Communication Engineering at North China University of Technology under Prof. Lijun Wang’s group. Prior to that, I earned a B.Eng. degree in Electronic Information Engineering.
+I am currently pursuing a Master of Engineering (M.E.) degree in Information and Communication Engineering at North China University of Technology under [Prof. Lijun Wang](https://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm)’s group. At the same time, I have been conducting research on personalized texture synthesis and personalized 3D content generation under the guidance of Researcher [Yawei Luo](https://person.zju.edu.cn/NB23035) from Zhejiang University. Prior to that, I earned a B.Eng. degree in Electronic Information Engineering.
 
 I am currently actively seeking PhD opportunities in Fall 2025. If you are interested in collaborating with me, please feel free to reach out!
 
