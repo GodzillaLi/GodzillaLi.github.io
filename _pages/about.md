@@ -51,20 +51,20 @@ You can reach me at [li@mail.ncut.edu.cn](li@mail.ncut.edu.cn)
 <body>
 
 <div class="partners">
-    <img src="https://tianhao.li/files/cv/splxai.png" alt="TOPSEC" class="logo">
+    <img src="https://godzillali.github.io/images/zhejiang.png" alt="Zhejiang University" class="logo">
     <div class="company-info">
-        <h3>SplxAI</h3>
-        <p>Research Scientist (Part Time)</p>
-        <i style="margin-top: -5px;">August 2024 - Present</i>
+        <h3>Zhejiang University</h3>
+        <p>School of Software Technology</p>
+        <i style="margin-top: -5px;">August 2022 - Present</i>
     </div>
 </div>
 
 <div class="partners">
-    <img src="https://tianhao.li/files/cv/topsec.png" alt="TOPSEC" class="logo">
+    <img src="https://godzillali.github.io/images/xidian.png" alt="TOPSEC" class="logo">
     <div class="company-info">
-        <h3>TOPSEC</h3>
-        <p>Security Researcher @ Coordinate Lab</p>
-        <i style="margin-top: -5px;">March 2024 - August 2024</i>
+        <h3>Xidian University</h3>
+        <p>Advance Vision Research Institute</p>
+        <i style="margin-top: -5px;">August 2022 - Present</i>
     </div>
 </div>
 
