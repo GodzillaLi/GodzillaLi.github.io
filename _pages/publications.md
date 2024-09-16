@@ -74,6 +74,8 @@ i {
   </div>
 </div>
 
+<br>
+
 <div class="container">
   <div class="image-container">
     <img src="https://godzillali.github.io/images/SDS.png" alt="SDS" width="100%"> 
@@ -84,6 +86,8 @@ i {
     <i>International Journal of Advanced Computer Science & Applications 15.1 (2024)</i>
   </div>
 </div>
+
+<br>
 
 <div class="container">
   <div class="image-container">
@@ -96,7 +100,7 @@ i {
   </div>
 </div>
 
-
+<br>
 
 </body>
 </html>
