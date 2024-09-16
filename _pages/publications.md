@@ -64,7 +64,7 @@ i {
 
 <div class="container">
   <div class="image-container">
-    <img src="https://github.com/GodzillaLi/GodzillaLi.github.io/blob/main/images/DreamTexture.png" alt="DreamTexture" width="100%"> 
+    <img src="images/DreamTexture.png" alt="DreamTexture" width="100%"> 
   </div>
   <div class="text-container">
     <b>[DreamTexture: High-Fidelity Synthetic 3D Data Generation through Decoupled Geometry and Texture Synthesis](https://syntheticdata4cv.wordpress.com/partners)</b>
