@@ -26,6 +26,7 @@ body {
 
 .container {
   display: flex;
+  align-items: center;
 }
 
 .image-container {
