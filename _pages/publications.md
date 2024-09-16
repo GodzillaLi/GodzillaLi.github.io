@@ -64,12 +64,12 @@ i {
 
 <div class="container">
   <div class="image-container">
-    <img src="https://tianhao.li/files/research/banner/li2024a.png" alt="li2024a" width="100%"> 
+    <img src="https://github.com/GodzillaLi/GodzillaLi.github.io/blob/main/images/DreamTexture.png" alt="DreamTexture" width="100%"> 
   </div>
   <div class="text-container">
-    <b>A Survey on Gait Recognition Against Occlusion: Taxonomy, Dataset and Methodology</b>
-    <p>Tianhao Li, Weizhi Ma, Yujia Zheng, Xinchao Fan, Guangcan Yang, Lijun Wang, Zhengping Li*</p>
-    <i>PeerJ Computer Science, 2024 (SCI, JCR-Q1, Undergoing Major Revision)</i>
+    <b>DreamTexture: High-Fidelity Synthetic 3D Data Generation through Decoupled Geometry and Texture Synthesis</b>
+    <p>Jing Li, Yawei Luo, Ying Li*, Xueying Li, Xiaoxue Li, Yuwen Hao, Lijun Wang, and Zhengping Li*</p>
+    <i>The 18th European Conference on Computer Vision ECCV 2024 (Synthetic Data for Computer Vision)</i>
   </div>
 </div>
 
