@@ -8,8 +8,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: https://godzillali.github.io/files/JingLi_Resume.pdf
-    
   - title: "Life"
     url: /life/
