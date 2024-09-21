@@ -55,7 +55,7 @@ You can reach me at [li@mail.ncut.edu.cn](li@mail.ncut.edu.cn)
     <div class="company-info">
         <h3>Zhejiang University</h3>
         <p>School of Software Technology</p>
-        <i style="margin-top: -5px;">August 2022 - Present</i>
+        <i style="margin-top: -5px;">April 2024 - Present</i>
     </div>
 </div>
 
@@ -64,7 +64,7 @@ You can reach me at [li@mail.ncut.edu.cn](li@mail.ncut.edu.cn)
     <div class="company-info">
         <h3>Xidian University</h3>
         <p>Advance Vision Research Institute</p>
-        <i style="margin-top: -5px;">August 2022 - Present</i>
+        <i style="margin-top: -5px;">June 2024 - Present</i>
     </div>
 </div>
 
